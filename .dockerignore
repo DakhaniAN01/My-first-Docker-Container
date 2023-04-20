@@ -5,3 +5,4 @@ My-first-Docker-Container
 .dockerignore
 Dockerfile
 package-locked.json
+.node_repl_history
