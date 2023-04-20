@@ -1,1 +1,2 @@
 .dockerignore
+to ignore rest of the files this file is wriiten.
