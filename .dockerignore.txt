@@ -1,2 +1,3 @@
 .dockerignore
 to ignore rest of the files this file is wriiten.
+i just want to add index.js and package.json file from local machine and not the dependancies from local host
